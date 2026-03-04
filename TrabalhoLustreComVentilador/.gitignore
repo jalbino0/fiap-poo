@@ -5,5 +5,5 @@
 *.iml
 .metadata/
 
-9 bin/
-10 target/
+bin/
+target/
